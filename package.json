@@ -1,0 +1,17 @@
+{
+  "name": "Birthday",
+  "version": "1.0.0",
+  "main": "trasferer.js",
+  "dependencies": {
+    "nodemailer": "^6.7.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node trasferer.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
