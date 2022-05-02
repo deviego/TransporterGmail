@@ -1,7 +1,7 @@
 ## Email Transporter 
 - This micro service, is to send an email to a network of users.
 - But in this case it's to help with my mother's work
-- my mother manages a cosmetics franchise and needs to keep an eye on the birthdays of the monthand I decided to use programming for this.
+- my mother manages a cosmetics franchise and needs to keep an eye on the birthdays of the monthand so I decided to use programming for this.
 
 ##
 <h2>Function</h2>
